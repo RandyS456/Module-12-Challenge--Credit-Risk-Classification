@@ -12,4 +12,6 @@ Import the Data (provided in the starter code) Prepare the Data (provided in the
 
 
 
-#### Please use the following nbviewer version link to view the complete graphic results along with required coding: 
+
+#### Please use the following nbviewer version link to view the complete graphic results along with required coding: https://nbviewer.org/github/RandyS456/Module-12-Challenge--Credit-Risk-Classification/blob/main/credit_risk_resampling.ipynb
+

@@ -1,7 +1,7 @@
-# Module-12-Challenge--Credit-Risk-Classification
+# Module-12-Challenge-Credit-Risk-Classification
 Challenge: Credit Risk Classification- In this Challenge, we use various techniques to train and evaluate models with imbalanced classes
 
-### Module-10-Challenge-Crypto-Clustering
+### Module-12-Challenge-Credit-Risk-Classification
 Challenge: Crypto Clustering-In this Challenge, we combine our financial Python programming skills with the new unsupervised learning skills acquired in this module.
 
 The CSV file provided for this challenge contains price change data of cryptocurrencies in different periods.
@@ -12,3 +12,4 @@ Import the Data (provided in the starter code) Prepare the Data (provided in the
 
 
 
+#### Please use the following nbviewer version link to view the complete graphic results along with required coding: 
